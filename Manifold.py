@@ -1,4 +1,4 @@
-# To modify this for other markets, change the contractSlug on line 26. To find this, go to any market page and copy-paste the text at the end of the URL
+# To modify this for other markets, change the contractSlug on line 25. To find this, go to any market page and copy-paste the text at the end of the URL
 # Link to this market: https://manifold.markets/milanw/will-sam-altman-be-the-ceo-of-opena
 
 import requests
